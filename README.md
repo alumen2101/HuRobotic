@@ -1,4 +1,4 @@
-# HuRobotic_API
+# HuRobotic Backend
 
 
 ## Install and Run
@@ -8,9 +8,9 @@ Make sure you have **Python 3.x** installed and **the latest version of pip** *i
 Clone the repository using the following command
 
 ```bash
-gh repo clone https-github-com-HuRoboticWebsite/HuRobotic_API
+gh repo clone https-github-com-HuRoboticWebsite/HuRobotic_backend
 # After cloning, move into the directory having the project files using the change directory command
-cd HuRobotic_API
+cd HuRobotic_backend
 ```
 Create a virtual environment where all the required python packages will be installed
 
