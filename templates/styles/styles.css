@@ -1,0 +1,7 @@
+.carousel-inner {
+    max-height: 576px;
+}
+
+.carousel-item img {
+    aspect-ratio: 1024px 576px;
+}
